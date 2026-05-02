@@ -24,7 +24,7 @@ Users can connect to the ESP32 hotspot and open a web page to:
 - Select 12-hour or 24-hour clock format
 - Adjust display brightness (intensity)
 
-All settings are saved permanently using ESP32 Preferences memory, so data remains محفوظ even after power OFF and ON.
+All settings are saved permanently using ESP32 Preferences memory, so data remains saved permanently even after power OFF and ON.
 
 ---
 
